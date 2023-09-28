@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+  background-color: antiquewhite;
+}
+.dd1 {
+  width: 1000px;
+  border: 2px solid black;
+  margin: auto;
+  padding: 10px;
+}
+.delete-button {
+  float: right;
+  margin-bottom: 8px;
+}
+#t1 {
+  font-size: 20px;
+}
+#b1 {
+  font-size: 20px;
+}
